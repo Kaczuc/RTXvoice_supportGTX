@@ -11,3 +11,6 @@ NVRTXVoice -> NvAFX następnie wyedytuj plik: RTXVoice.nvi przy pomocy edytora t
 6. Ciesz się z aplikacji na swoim GTX'ie :)
 
 <hr>
+Testowane na karcie graficznej: GTX 950
+
+Archiwalna wersja oprogramowania na wypadek naprawy luki przez Nvidia: 
