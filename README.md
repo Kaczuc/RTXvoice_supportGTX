@@ -1,4 +1,4 @@
-# RTXvoice
+# RTXvoice_supportGTX
 Specjalna wersja obsługująca karty graficzne GTX
 
 1. Pobierz aplikacje z strony producenta: https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/
