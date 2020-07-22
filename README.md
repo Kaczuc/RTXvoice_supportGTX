@@ -13,4 +13,4 @@ NVRTXVoice -> NvAFX następnie wyedytuj plik: RTXVoice.nvi przy pomocy edytora t
 <hr>
 Testowane na karcie graficznej: GTX 950
 
-Archiwalna wersja oprogramowania na wypadek naprawy luki przez Nvidia: 
+Archiwalna wersja oprogramowania na wypadek naprawy luki przez Nvidia: https://drive.google.com/file/d/1hvHCYDsvb6CZLfUrl4BtO0apy1oj45Ej/view?usp=sharing
